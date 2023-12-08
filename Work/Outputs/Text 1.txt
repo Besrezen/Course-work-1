@@ -1,0 +1,17 @@
+List of countries with population less than 1 million
+
+
+                  Country      Continent 2018 population
+0                Barbados  North America          293131
+1              Cabo Verde         Africa          568373
+2                 Comoros         Africa          821164
+3                Djibouti         Africa          884017
+4                Dominica  North America           74027
+5       Equatorial Guinea         Africa          797457
+6                 Iceland         Europe          352573
+7              Luxembourg         Europe          609726
+8                   Malta         Europe          487260
+9              Montenegro         Europe          614249
+10            Saint Lucia  North America          165510
+11  Sao Tome and Principe         Africa          204454
+12             Seychelles         Africa           94633

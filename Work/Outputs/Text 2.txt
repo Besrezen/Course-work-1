@@ -1,0 +1,27 @@
+List of countries with population decrease between 2010 and 2018
+
+                   Country      Continent 2018 population
+0                  Armenia           Asia         2906869
+1                  Belarus         Europe         9528074
+2   Bosnia and Herzegovina         Europe         3946871
+3                 Bulgaria         Europe         7166644
+4                  Croatia         Europe         3860507
+5                     Cuba  North America        11116396
+6                  Estonia         Europe         1291906
+7        Former Yugoslavia         Europe        21423565
+8                   Greece         Europe        10662161
+9                  Hungary         Europe         9773575
+10                 Jamaica  North America         2671788
+11                   Japan           Asia       125847717
+12                  Latvia         Europe         1927492
+13               Lithuania         Europe         2799268
+14              Montenegro         Europe          614249
+15                  Poland         Europe        38370798
+16                Portugal         Europe        10221470
+17             Puerto Rico  North America         3294626
+18     Republic of Moldova         Europe         3453439
+19                 Romania         Europe        19190643
+20                  Serbia         Europe         7078110
+21    Syrian Arab Republic           Asia        16931272
+22     Trinidad and Tobago  North America         1215344
+23                 Ukraine         Europe        43952299

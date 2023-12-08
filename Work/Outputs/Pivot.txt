@@ -1,0 +1,184 @@
+Table of continents, countries, 2018 populations
+
+                                                        2018
+Continent     Country                                       
+Africa        Algeria                               41489775
+              Angola                                22637959
+              Benin                                 12017978
+              Botswana                               2262596
+              Burkina Faso                          19699640
+              Burundi                               11229000
+              Cabo Verde                              568373
+              Cameroon                              26373627
+              Central African Republic               5745062
+              Chad                                  15252874
+              Comoros                                 821164
+              Congo                                  5164602
+              Côte d'Ivoire                         27622915
+              D.R. of the Congo                     95238683
+              Djibouti                                884017
+              Egypt                                102183736
+              Equatorial Guinea                       797457
+              Ethiopia                             106467969
+              Gabon                                  2083240
+              Gambia                                 2092731
+              Ghana                                 27858456
+              Guinea                                11855411
+              Guinea-Bissau                          1833247
+              Kenya                                 51371553
+              Lesotho                                1962461
+              Liberia                                4809768
+              Libya                                  6688465
+              Madagascar                            25683610
+              Malawi                                20216589
+              Mali                                  16506749
+              Mauritania                             3840429
+              Mauritius                              1364283
+              Morocco                               35495835
+              Mozambique                            25998171
+              Namibia                                2553929
+              Niger                                 21233844
+              Nigeria                              202534230
+              Rwanda                                11915770
+              Sao Tome and Principe                   204454
+              Senegal                               16355947
+              Seychelles                               94633
+              Sierra Leone                           6312212
+              South Africa                          55341403
+              Sudan (Former)                        41773607
+              Swaziland                              1087200
+              Togo                                   8176449
+              Tunisia                               11478193
+              U.R. of Tanzania: Mainland            56366818
+              Uganda                                42330699
+              Zambia                                17254680
+              Zimbabwe                              14096612
+Asia          Afghanistan                           34940837
+              Armenia                                2906869
+              Azerbaijan                             9647924
+              Bahrain                                1583829
+              Bangladesh                           167474842
+              Cambodia                              16409218
+              China                               1385439414
+              Cyprus                                 1022283
+              D.P.R. of Korea                       25381085
+              Georgia                                4921591
+              Hong Kong                              7350261
+              India                               1298135534
+              Indonesia                            259494117
+              Iran (Islamic Republic of)            82239197
+              Iraq                                  40012478
+              Israel                                 8460269
+              Japan                                125847717
+              Jordan                                 9116211
+              Kazakhstan                            18323404
+              Kuwait                                 4229457
+              Kyrgyzstan                             5717832
+              Lao People's DR                        7234171
+              Lebanon                                7707656
+              Malaysia                              31142720
+              Mongolia                               3103428
+              Myanmar                               54399998
+              Nepal                                 29717587
+              Oman                                   4725038
+              Pakistan                             219964291
+              Philippines                          112105641
+              Qatar                                  2605610
+              Republic of Korea                     51635000
+              Saudi Arabia                          33343543
+              Singapore                              5995991
+              Sri Lanka                             21731902
+              State of Palestine                     4615080
+              Syrian Arab Republic                  16931272
+              Taiwan, Province of China             23324215
+              Tajikistan                             8604339
+              Thailand                              67515005
+              Turkey                                85934891
+              Turkmenistan                           5410329
+              United Arab Emirates                   9619466
+              Uzbekistan                            30023498
+              Viet Nam                              97075817
+              Yemen                                 30217091
+Europe        Albania                                3062734
+              Austria                                8892454
+              Belarus                                9528074
+              Belgium                               11429268
+              Bosnia and Herzegovina                 3946871
+              Bulgaria                               7166644
+              Croatia                                3860507
+              Czech Republic                        10605403
+              Czechoslovakia                        16014584
+              Denmark                                5793652
+              Estonia                                1291906
+              Finland                                5515525
+              Former USSR                          294473952
+              Former Yugoslavia                     21423565
+              France                                67028749
+              Germany                               84152483
+              Greece                                10662161
+              Hungary                                9773575
+              Iceland                                 352573
+              Ireland                                4859319
+              Italy                                 60446950
+              Latvia                                 1927492
+              Lithuania                              2799268
+              Luxembourg                              609726
+              Malta                                   487260
+              Montenegro                              614249
+              Netherlands                           17231624
+              Norway                                 5312583
+              Poland                                38370798
+              Portugal                              10221470
+              Republic of Moldova                    3453439
+              Romania                               19190643
+              Russian Federation                   146476307
+              Serbia                                 7078110
+              Slovakia                               5409181
+              Slovenia                               2066680
+              Spain                                 47379843
+              Sweden                                10175410
+              Switzerland                            8667875
+              TFYR of Macedonia                      2118945
+              Ukraine                               43952299
+              United Kingdom                        66745609
+North America Barbados                                293131
+              Canada                                37206335
+              Costa Rica                             4993580
+              Cuba                                  11116396
+              Dominica                                 74027
+              Dominican Republic                    10385306
+              Guatemala                             17231560
+              Haiti                                 10788440
+              Honduras                               9001592
+              Jamaica                                2671788
+              Mexico                               121655764
+              Nicaragua                              6085213
+              Panama                                 3800644
+              Puerto Rico                            3294626
+              Saint Lucia                             165510
+              Trinidad and Tobago                    1215344
+              United States                        327834658
+Oceania       Australia                             24855304
+              New Zealand                            4839623
+South America Argentina                             44694769
+              Bolivia (Plurinational State of)      11306341
+              Brazil                               211307770
+              Chile                                 18676228
+              Colombia                              48128326
+              Ecuador                               16498502
+              El Salvador                            6368351
+              Paraguay                               7098536
+              Peru                                  31382084
+              Uruguay                                3396476
+              Venezuela (Bolivarian Republic of)    28890237
+
+Table of continents with their overall 2018 populations
+
+                     2018
+Continent                
+Africa         1245229105
+Asia           4473337948
+Europe         1080569760
+North America   567813914
+Oceania          29694927
+South America   427747620
